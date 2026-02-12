@@ -1,0 +1,38 @@
+# Dependências
+/node_modules
+
+# Arquivos de Build
+/dist
+/build
+/out
+
+# Variáveis de Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.log
+
+# Arquivos de Cache e Temp
+.cache
+.temp
+tmp/
+*.tmp
+*.bak
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs e Editores
+.idea/
+.vscode/
+.venv/
+*.swp
+*.swo
